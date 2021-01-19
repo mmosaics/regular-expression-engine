@@ -1,0 +1,14 @@
+//
+// Created by 胡凌瑞 on 2021/1/16.
+//
+
+#ifndef REGULAR_EXPRESSION_ENGINE_LL1GRAMMAR_H
+#define REGULAR_EXPRESSION_ENGINE_LL1GRAMMAR_H
+
+
+class LL1Grammar {
+
+};
+
+
+#endif //REGULAR_EXPRESSION_ENGINE_LL1GRAMMAR_H
