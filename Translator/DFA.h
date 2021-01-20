@@ -1,0 +1,14 @@
+//
+// Created by 胡凌瑞 on 2021/1/21.
+//
+
+#ifndef REGULAR_EXPRESSION_ENGINE_DFA_H
+#define REGULAR_EXPRESSION_ENGINE_DFA_H
+
+
+class DFA {
+
+};
+
+
+#endif //REGULAR_EXPRESSION_ENGINE_DFA_H
